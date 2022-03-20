@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">assignment1</string>
+    <string name="message">Message</string>
+    <string name="_235">235</string>
+    <string name="_926">926</string>
+    <string name="_520">520</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="cv_profile">CV Profile</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="description">Description</string>
+    <string name="final_degree">Final Degree</string>
+    <string name="skill">Skill</string>
+    <string name="experience">Experience</string>
+    <string name="submit">SUBMIT</string>
+</resources>
